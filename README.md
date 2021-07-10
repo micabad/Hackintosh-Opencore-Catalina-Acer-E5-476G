@@ -14,7 +14,7 @@ Specification
 - Posisi: Post-Install (sudah instalasi)
 - Bootloader: OpenCore 0.7.1
 
-WORK
+# WORK
 1. QE/CI of IGPU of Intel HD Graphics 620
 2. CPU Power Management
 3. Restart, Shutdown and Sleep
@@ -31,5 +31,5 @@ WORK
 14. Bluetooth 
 15. Audio Jack
 
-Not Working??
+# Not Working??
 1. MX150 (Not supported)
