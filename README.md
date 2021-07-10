@@ -13,7 +13,7 @@ Specification
 - Audio: ALC255
 - Posisi: Post-Install (sudah instalasi)
 - Bootloader: OpenCore 0.7.1
-Work
+WHATS WORKS
 1. QE/CI of IGPU of Intel HD Graphics 520
 2. CPU Power Management
 3. Restart, Shutdown and Sleep
