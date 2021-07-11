@@ -1,5 +1,6 @@
 # Hackintosh-Opencore-Catalina-Acer-E5-476G
-This is a repository of Hackintosh files on my Acer E5 476G Laptop. I am using Opencore Bootloader and Catalina version of MacOs.
+This is a repository of Hackintosh files on my Acer E5 476G Laptop. I am using Opencore Bootloader and Catalina version of MacOs. I dont know if the kernels might work on other version of MacOS. That's why I'm not going to update to Big Sur soon.
+
 Specification
 - Laptop: Acer E5 476G
 - CPU: Intel Core i5-8250u (Kabylake-R / 8th Gen)
