@@ -34,3 +34,11 @@ Specification
 
 # Not Working??
 1. MX150 (Not supported)
+
+Notes
+- ALC255 ALCID:28
+- Intel AC3168 Wifi & Bluetooth with itlwm
+- GSMBIOS iMac18,1
+
+Credit: 
+Dortania
